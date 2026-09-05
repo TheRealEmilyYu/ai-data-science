@@ -1,6 +1,5 @@
 # ai-data-science
 Practice repository for learning Git, GitHub, and data science.
 
+Maybe this isnt horrible
 
-
-This is confusing
